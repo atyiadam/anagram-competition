@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjqvIH0pPnjAhVIy6QKHW9uCtEQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.ashishdurgude.com%2Ftco18indiaevent&psig=AOvVaw0iYwqiIxu3SkUsun9Afq92&ust=1565559583672099" height="50%" width="50%">
+  <img src="/.git/topcoder.png" height="50%" width="50%">
 </p>
 <h1 align="center">TopCoder's anagram problem</h1>
 <p>This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2003, TopCoder, Inc. All rights reserved.</p>
