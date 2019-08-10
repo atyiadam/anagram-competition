@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="/.git/topcoder.png" height="50%" width="50%">
-</p>
+  <img src="./.git/topcoder.png" height="20%" width="20%">
+  </p>
 <h1 align="center">TopCoder's anagram problem</h1>
 <p>This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2003, TopCoder, Inc. All rights reserved.</p>
 
