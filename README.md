@@ -2,7 +2,7 @@
   <img src="https://v.fastcdn.co/u/97c829ee/21055596-0-high-topcoder-horizo.png" height="40%" width="40%">
   </p>
 <h1 align="center">TopCoder's anagram problem</h1>
-<p>This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2003, TopCoder, Inc. All rights reserved.</p>
+<p style="font-size:80%">This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2003, TopCoder, Inc. All rights reserved.</p>
 
 <h2>Problem Statement</h2>
 <p>Two phrases are anagrams if they are permutations of each other, ignoring spaces and capitalization. For example, "Aaagmnrs" is an anagram of "anagrams", and "TopCoder" is an anagram of "Drop Cote". Given a phrases, remove each phrase that is an anagram of an earlier phrase, and return the remaining phrases in their original order.</p>
