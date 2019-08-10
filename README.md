@@ -26,14 +26,14 @@ Memory limit (MB): 64
 
 - Input: { "Aaagmnrs", "TopCoder", "anagrams", "Drop Cote" }
 
- - Returns: { "Aaagmnrs", "TopCoder" }
+  - Returns: { "Aaagmnrs", "TopCoder" }
 
 
 - Input: { "SnapDragon vs tomek", "savants groped monk", "Adam vents prongs ok" }
 
- - Returns: { "SnapDragon vs tomek" }
+  - Returns: { "SnapDragon vs tomek" }
 
 
 - Input: { "Radar ghost jilts Kim", "patched hers first", "DEPTH FIRST SEARCH", "DIJKSTRAS ALGORITHM" }
 
- - Returns: { "Radar ghost jilts Kim", "patched hers first" }
+  - Returns: { "Radar ghost jilts Kim", "patched hers first" }
