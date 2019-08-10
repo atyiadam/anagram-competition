@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://www.google.com/search?rlz=1C1GCEU_enHU859HU860&biw=1536&bih=706&tbm=isch&sa=1&ei=hzlPXemEEuvRgwfu25go&q=topcoder+logo+png&oq=topcoder+logo+png&gs_l=img.3..0i19.22684.23125..23277...0.0..0.164.582.1j4......0....1..gws-wiz-img._AB2RV_pJIg&ved=0ahUKEwip5ML8ofnjAhXr6OAKHe4tBgUQ4dUDCAY&uact=5#imgdii=Tc_o41FfDT74TM:&imgrc=gHszkj5CBvqKUM:" height="50%" width="50%">
+  <img src="https://www.google.com/search?rlz=1C1GCEU_enHU859HU860&biw=1536&bih=706&tbm=isch&sa=1&ei=hzlPXemEEuvRgwfu25go&q=topcoder+logo+png&oq=topcoder+logo+png&gs_l=img.3..0i19.22684.23125..23277...0.0..0.164.582.1j4......0....1..gws-wiz-img._AB2RV_pJIg&ved=0ahUKEwip5ML8ofnjAhXr6OAKHe4tBgUQ4dUDCAY&uact=5#imgrc=MkOjJqI_hGy2NM:" height="50%" width="50%">
 </p>
-<h1>TopCoder's anagram problem</h1>
+<h1 align="center">TopCoder's anagram problem</h1>
 <p>This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2003, TopCoder, Inc. All rights reserved.</p>
 
 <h2>Problem Statement</h2>
