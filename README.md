@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.git/topcoder.png" height="20%" width="20%">
+  <img src="https://v.fastcdn.co/u/97c829ee/21055596-0-high-topcoder-horizo.png" height="40%" width="40%">
   </p>
 <h1 align="center">TopCoder's anagram problem</h1>
 <p>This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2003, TopCoder, Inc. All rights reserved.</p>
